@@ -1,12 +1,12 @@
 # codtech-task1
-NAME:GUNASHEKHAR
-COMPANY:CODTECH IT SOLUTIONS
-ID:CT08DS4882
-DOMAIN:PYTHON
-DURATION:AUGUST TO SEPTEMBER
-MENTOR:MUZAMMIL AHMED
+# NAME:GUNASHEKHAR
+# COMPANY:CODTECH IT SOLUTIONS
+# ID:CT08DS4882
+# DOMAIN:PYTHON
+# DURATION:AUGUST TO SEPTEMBER
+# MENTOR:MUZAMMIL AHMED
 
-Overview of the Basic Calculator Program
+# Overview of the Basic Calculator Program
 Purpose:
 The program is designed to perform basic arithmetic operations, including addition, subtraction, multiplication, and division. It interacts with the user via the command line to perform these operations on two numbers provided by the user.
 
