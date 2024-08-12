@@ -57,3 +57,77 @@ Functions:
 add(x, y): Returns the sum of x and y.
 subtract(x, y): Returns the difference between x and y.
 
+# output
+PS C:\Users\pooja\OneDrive\Desktop\Guna> & "C:/Program Files/Python312/python.exe" c:/Users/pooja/OneDrive/Desktop/Guna/calci.py
+Welcome to the basic calculator!
+Enter the first number: 3
+Enter the second number: 4
+Select the operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+Enter the number corresponding to the operation (1/2/3/4): 1
+The result of addition is: 7.0
+PS C:\Users\pooja\OneDrive\Desktop\Guna> & "C:/Program Files/Python312/python.exe" c:/Users/pooja/OneDrive/Desktop/Guna/calci.py
+Welcome to the basic calculator!
+Enter the first number: 20
+Enter the second number: 30
+Select the operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+Enter the number corresponding to the operation (1/2/3/4): 2
+The result of subtraction is: -10.0
+PS C:\Users\pooja\OneDrive\Desktop\Guna> & "C:/Program Files/Python312/python.exe" c:/Users/pooja/OneDrive/Desktop/Guna/calci.py
+Welcome to the basic calculator!
+Enter the first number: 5
+Enter the second number: 4
+Select the operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+Enter the number corresponding to the operation (1/2/3/4): 3
+The result of multiplication is: 20.0
+PS C:\Users\pooja\OneDrive\Desktop\Guna> & "C:/Program Files/Python312/python.exe" c:/Users/pooja/OneDrive/Desktop/Guna/calci.py
+Welcome to the basic calculator!
+Enter the first number: 20
+Enter the second number: 5
+Select the operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+Enter the number corresponding to the operation (1/2/3/4): 4
+The result of division is: 4.0
+PS C:\Users\pooja\OneDrive\Desktop\Guna> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
